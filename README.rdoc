@@ -1,6 +1,6 @@
 = jquery-complexify-rails
 
-Description goes here.
+A gem for integrating the jQuery Complexify plugin with the rails assets pipeline
 
 == Contributing to jquery-complexify-rails
  
@@ -14,6 +14,6 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2014 Pablo Lluch. See LICENSE.txt for
+Copyright (c) 2014 Pablo Lluch. See LICENSE for
 further details.
 
