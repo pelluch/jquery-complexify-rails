@@ -13,7 +13,7 @@ Gem::Specification.new do |gem|
   gem.files         = Dir["{app,lib}/**/*"] + ["LICENSE", "Rakefile", "README.rdoc"]
   gem.name          = "jquery-complexify-rails"
   gem.require_paths = ["lib"]
-  gem.version       = GmapsJS::Rails::VERSION
+  gem.version       = JQueryComplexify::Rails::VERSION
   gem.add_dependency "railties", ">= 3.1", "< 5.0"
 
 end
